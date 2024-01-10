@@ -10,6 +10,7 @@ import java.util.Map;
 
 @RestController
 public class UserController {
+
     private RegistrationServiceClient registrationServiceClient;
 
     @Autowired
